@@ -4,11 +4,14 @@
   "description": "学习axios相关知识",
   "main": "index.js",
   "scripts": {
-    "test": "npm dev"
+    "dev": "npm run dev"
   },
   "keywords": [
     "axios"
   ],
   "author": "hdw-Qi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
 }
